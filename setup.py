@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='py_event_publisher',
+    name='py-event-publisher',
     version='0.1',
     description=u'Módulo de Eventos',
     author='Innvent',
