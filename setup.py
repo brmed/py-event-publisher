@@ -15,6 +15,6 @@ setup(
         "py-notify==0.3.2",
     ],
     dependency_links=[
-        "git+ssh://git@github.com/berinhard/py-notify.git@0.3.2#egg=py-notify-0.3.2",
+        "git+https://github.com/berinhard/py-notify.git@0.3.2#egg=py-notify-0.3.2",
     ],
 )
